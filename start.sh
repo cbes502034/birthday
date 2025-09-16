@@ -1,1 +1,1 @@
-uvicorn main:app --reload --port=1234
+uvicorn Backend.main:app --host=0.0.0.0 --port=1234
